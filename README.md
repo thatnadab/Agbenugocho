@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/agbenugocho"><img src="https://api.daily.dev/devcards/8e84013df2c0410caa9c327b03f59a6e.png?r=bgq" width="400" alt="ABU JEHONADAB AGBENUGOCHO's Dev Card"/></a>
-
 <!--
 **Agbenugocho/Agbenugocho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
